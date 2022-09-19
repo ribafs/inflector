@@ -8,4 +8,4 @@ with regard to uppercase/lowercase and singular/plural forms of words.
 
 ## See
 
-docs/
+[docs](docs/en/index.rst)
